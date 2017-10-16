@@ -5,8 +5,14 @@
   "dependencies": {
     "react": "^16.0.0",
     "react-dom": "^16.0.0",
+    "react-fancy-lib": "0.0.1",
     "react-scripts": "1.0.14"
   },
+  "author": {
+    "name": "Janice Smith",
+    "email": "janice.k.n.smith@gmail.com"
+  },
+  "license": "MIT",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
