@@ -5,7 +5,7 @@
   "dependencies": {
     "react": "^16.0.0",
     "react-dom": "^16.0.0",
-    "react-fancy-lib": "0.0.2",
+    "react-fancy-lib": "0.0.3",
     "react-scripts": "1.0.14"
   },
   "author": {
