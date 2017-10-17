@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import logo from './logo.svg';
 import './App.css';
-// import 'react-fancy-lib/build/style.css'; // TODO: set this up so you can get styles
+import 'react-fancy-lib/build/style.css';
 import { Button, FancyMessage } from 'react-fancy-lib';
 
 class App extends Component {
